@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.herogame.gplay.lastdayrulessurvival"
+          description: "com.tencent.tmgp.cf"
           required: true
 
 jobs:
